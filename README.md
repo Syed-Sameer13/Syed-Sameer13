@@ -60,7 +60,7 @@
 
 ## 🏅 Holopin Badges
 
-[![@syed_sameer13's Holopin board](https://holopin.me/syed_sameer13)](https://holopin.io/@syed_sameer13)
+[![An image of @sameer_syed13's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sameer_syed13)](https://holopin.io/@sameer_syed13)
 
 ---
 
@@ -83,8 +83,8 @@ Check out my repositories to see what I'm working on! 🚀
 <div align="center">
   
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Syed-Sameer13)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/sameer-syed13)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:s.sammer112233@gmail.com)
 
 </div>
 
