@@ -64,9 +64,6 @@ Here are some of my key projects—explore my repositories for more!
 - [**E-Commerce-Website**](https://github.com/Syed-Sameer13/E-Commerce-Website)  
   Full-featured e-commerce website project showcasing advanced web development and design skills.
 
-- [**Hacktoberfest2025-Open-source-**](https://github.com/Syed-Sameer13/Hacktoberfest2025-Open-source-)  
-  Open source contributions for Hacktoberfest. Community-focused, includes beginner-friendly coding challenges.
-
   ---
 
 ## 🏅 Holopin Badges
