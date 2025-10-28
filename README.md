@@ -45,6 +45,37 @@
 
 ---
 
+## 💡 Featured Projects
+
+Here are some of my key projects—explore my repositories for more!
+
+- [**Snake-and-Ladders-Game**](https://github.com/Syed-Sameer13/Snake-and-Ladders-Game)  
+  Fun 2-player Snakes & Ladders game built with HTML, CSS & JavaScript. Features classic board mechanics and turn-based play.
+
+- [**VR-Web**](https://github.com/Syed-Sameer13/VR-Web)  
+  Modern and responsive landing page for a VR product, designed using HTML5, CSS3, and Bootstrap.
+
+- [**To-Dos-Application**](https://github.com/Syed-Sameer13/To-Dos-Application)  
+  Web-based todo list app with persistent data saving, clean design, and task management (HTML, CSS, JavaScript, Bootstrap).
+
+- [**Wikipedia-Mini-Search-Application**](https://github.com/Syed-Sameer13/Wikipedia-Mini-Search-Application)  
+  Simple Wikipedia search tool using the Wikipedia API, built with HTML, CSS, and JavaScript. Quick searching and result display.
+
+- [**E-Commerce-Website**](https://github.com/Syed-Sameer13/E-Commerce-Website)  
+  Full-featured e-commerce website project showcasing advanced web development and design skills.
+
+- [**Hacktoberfest2025-Open-source-**](https://github.com/Syed-Sameer13/Hacktoberfest2025-Open-source-)  
+  Open source contributions for Hacktoberfest. Community-focused, includes beginner-friendly coding challenges.
+
+  ---
+
+## 🏅 Holopin Badges
+
+[![An image of @sameer_syed13's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sameer_syed13)](https://holopin.io/@sameer_syed13)
+
+---
+
+
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -56,25 +87,13 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Syed-Sameer13&theme=radical&hide_border=true" alt="GitHub Streak" />
 </div>
 
----
 
-## 🏅 Holopin Badges
-
-[![An image of @sameer_syed13's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sameer_syed13)](https://holopin.io/@sameer_syed13)
-
----
 
 ## 📈 Contribution Graph
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Syed-Sameer13&theme=react-dark&hide_border=true" alt="Contribution Graph" />
 </div>
-
----
-
-## 💡 Featured Projects
-
-Check out my repositories to see what I'm working on! 🚀
 
 ---
 
