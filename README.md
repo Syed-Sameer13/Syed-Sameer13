@@ -83,11 +83,9 @@ Here are some of my key projects—explore my repositories for more!
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Syed-Sameer13&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="165" />
 </div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Syed-Sameer13&theme=radical&hide_border=true" alt="GitHub Streak" />
-</div>
+[![GitHub Streak](https://img.shields.io/badge/GitHub%20Streak-Active-red?labelColor=24292F&logo=github)](https://github.com/Syed-Sameer13)
 
-
+---
 
 ## 📈 Contribution Graph
 
